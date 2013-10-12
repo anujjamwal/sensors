@@ -1,0 +1,9 @@
+
+/*
+ * Makefile.enc28j60
+ *
+ * Created: 10/13/2013 12:01:58 AM
+ *  Author: anujjamwal
+ */ 
+ 
+DEV_SOURCES +=	enc28j60.c ethernet.c
